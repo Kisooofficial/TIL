@@ -6,4 +6,5 @@ This Repository is about writing what i learned today
 - 23.07.23 : Time Series Forcasting (Kaggle learn 3)
 - 23.07.24 : BOAZ ADV, Time Series Forcasting (Kaggle learn 4 ~ 6)
 - 23.07.25 : Kaggle Time Series Data Kernel Notebook
-- 23.07.27 : Kaggle Time Series Data Kenrel Notebook & learned moving average(simple, exponential)
+- 23.07.27 : Kaggle Time Series Data Kernel Notebook & learned moving average(simple, exponential)
+- 23.07.28 : Kaggle Time Series Data Kernel Notebook Second Time
