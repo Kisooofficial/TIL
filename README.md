@@ -1,6 +1,6 @@
 # TIL
 This Repository is about writing what i learned today
-- 23.07.18 : 면접보고옴
+- 23.07.18 : 면접보고옴 -> 떨어짐.
 - 23.07.20 : Kaggle 가입
 - 23.07.21 : Time Series Forcasting (kaggle learn 1 ~ 2)
 - 23.07.23 : Time Series Forcasting (Kaggle learn 3)
@@ -8,3 +8,5 @@ This Repository is about writing what i learned today
 - 23.07.25 : Kaggle Time Series Data Kernel Notebook
 - 23.07.27 : Kaggle Time Series Data Kernel Notebook & learned moving average(simple, exponential)
 - 23.07.28 : Kaggle Time Series Data Kernel Notebook Second Time
+- 23.07.29 : BOAZ 18th Conference
+- 23.07.30 : Kaggle Time Series Data Kernel Notebook about how to do EDA
