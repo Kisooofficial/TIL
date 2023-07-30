@@ -9,4 +9,4 @@ This Repository is about writing what i learned today
 - 23.07.27 : Kaggle Time Series Data Kernel Notebook & learned moving average(simple, exponential)
 - 23.07.28 : Kaggle Time Series Data Kernel Notebook Second Time
 - 23.07.29 : BOAZ 18th Conference
-- 23.07.30 : Kaggle Time Series Data Kernel Notebook about how to do EDA
+- 23.07.30 : Kaggle Time Series Data Kernel Notebook about how to do EDA + Trend(Moving Average)
