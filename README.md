@@ -13,4 +13,5 @@ This Repository is about writing what i learned today
 - 23.07.31 : Kaggle Time Series Data Kernel Notebook about Seasonality
 - 23.08.01 : Meeting with Professor, BOAZ Summer Vacation Study
 - 23.08.02 : Two-way ANOVA upload, paper review
-- 23.08.03 : 
+- 23.08.03 : Paper review for Seminar
+- 23.08.04 : 
