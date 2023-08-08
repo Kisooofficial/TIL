@@ -16,3 +16,5 @@ This Repository is about writing what i learned today
 - 23.08.03 : Paper review for Seminar
 - 23.08.04 : Paper review for Seminar about Recommendation Systems
 - 23.08.05 : Interview preparation
+- 23.08.06 : Interview preparation, Paper review for Seminar about Recommendation Systems
+- 23.08.07 : Interview preparation, Paper review for Seminar about Recommendation Systems
