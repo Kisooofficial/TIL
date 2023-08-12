@@ -20,3 +20,5 @@ This Repository is about writing what i learned today
 - 23.08.07 : Interview preparation, Paper review for Seminar about Recommendation Systems
 - 23.08.08 : Making Paper Review PPT
 - 23.08.09 : Recommendation Paper Review PPT
+- 23.08.11 : Job Interview preparation
+- 23.08.12 : School Interview preparation
