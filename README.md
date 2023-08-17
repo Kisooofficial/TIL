@@ -26,3 +26,4 @@ This Repository is about writing what i learned today
 - 23.08.14 : School Interview preparation
 - 23.08.15 : Recommendation Paper Review
 - 23.08.16 : School Interview (ㅠㅠ)
+- 23.08.17 : Term Project for graduation
