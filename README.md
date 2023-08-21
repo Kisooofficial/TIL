@@ -29,3 +29,4 @@ This Repository is about writing what i learned today
 - 23.08.17 : Term Project for graduation
 - 23.08.18 : Time Series Forcasting kernel notebook
 - 23.08.19 : Time Series & Growth Hacking
+- 23.08.21 : Recommendation System Paper
