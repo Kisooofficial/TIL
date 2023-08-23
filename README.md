@@ -31,3 +31,4 @@ This Repository is about writing what i learned today
 - 23.08.19 : Time Series & Growth Hacking
 - 23.08.21 : Recommendation System Paper
 - 23.08.22 : Recommendation System paper + BOAZ Study
+- 23.08.23 : Graduation project, Recommendsystem paper
