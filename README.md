@@ -32,3 +32,4 @@ This Repository is about writing what i learned today
 - 23.08.21 : Recommendation System Paper
 - 23.08.22 : Recommendation System paper + BOAZ Study
 - 23.08.23 : Graduation project, Recommendsystem paper
+- 23.08.24 : Recommendsystem paper ppt
