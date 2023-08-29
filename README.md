@@ -36,3 +36,5 @@ This Repository is about writing what i learned today
 - 23.08.25 : Nothing
 - 23.08.26 : conclusion of dacon
 - 23.08.27 : Dacon EDA
+- 23.08.28 : Dacon Notebook Check
+- 23.08.29 : Dacon Notebook
