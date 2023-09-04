@@ -41,3 +41,4 @@ This Repository is about writing what i learned today
 - 23.08.30 : Dacon Notebook
 - 23.08.31 : Dacon Notebook Summary
 - 23.09.01 : Dacon Notebook Summary, LIME
+- 23.09.03 : Time Series Paper Review
