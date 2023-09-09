@@ -42,5 +42,6 @@ This Repository is about writing what i learned today
 - 23.08.31 : Dacon Notebook Summary
 - 23.09.01 : Dacon Notebook Summary, LIME
 - 23.09.03 : Time Series Paper Review
-- 23.09.04 : Time Series Paper Review
+- 23.09.04 : Time Series Paper Review, CS229n 2강
 - 23.09.07 : 수업 들음
+- 23.09.08 : 몬테카를로 확률과 통계
