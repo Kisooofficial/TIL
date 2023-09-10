@@ -45,3 +45,4 @@ This Repository is about writing what i learned today
 - 23.09.04 : Time Series Paper Review, CS229n 2강
 - 23.09.07 : 수업 들음
 - 23.09.08 : 몬테카를로 확률과 통계
+- 23.09.09 : Time Series Paper Review
