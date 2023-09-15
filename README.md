@@ -47,3 +47,7 @@ This Repository is about writing what i learned today
 - 23.09.08 : 몬테카를로 확률과 통계
 - 23.09.09 : Time Series Paper Review
 - 23.09.10 : Time Series Paper Review, 법과 권리, 자기소개서 작성
+- 23.09.11 : 자기소개서 작성, 시계열 데이터 논문리뷰
+- 23.09.12 : 시계열 데이터 논문리뷰
+- 23.09.13 : 블로그 글쓰기 초안
+- 23.09.14 : 시계열 데이터 논문리뷰, 블로그 글쓰기 1/2
