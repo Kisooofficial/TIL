@@ -52,3 +52,4 @@ This Repository is about writing what i learned today
 - 23.09.13 : 블로그 글쓰기 초안
 - 23.09.14 : 시계열 데이터 논문리뷰, 블로그 글쓰기 1/2
 - 23.09.15 : 결정계수
+- 23.09.16 : PyTorch Documentation
