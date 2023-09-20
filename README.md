@@ -54,3 +54,4 @@ This Repository is about writing what i learned today
 - 23.09.15 : 결정계수
 - 23.09.18 : PyTorch Documentation
 - 23.09.19 : PyTorch Documentation Start Tutorial
+- 23.09.20 : PyTorch Documentation
