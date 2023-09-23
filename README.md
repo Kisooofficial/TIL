@@ -55,3 +55,4 @@ This Repository is about writing what i learned today
 - 23.09.18 : PyTorch Documentation
 - 23.09.19 : PyTorch Documentation Start Tutorial
 - 23.09.20 : PyTorch Documentation
+- 23.09.21 : Capstone Design Term Project
